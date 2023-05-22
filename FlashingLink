@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Flashing Links Grid</title>
+	<style>
+		@keyframes flashing1 {
+			0% {
+				color: #ff0000; /* Red */
+			}
+			50% {
+				color: #ffffff; /* White */
+			}
+			100% {
+				color: #ff0000; /* Back to Red */
+			}
+		}
+
+		@keyframes flashing2 {
+			0% {
+				color: #ff0000; /* Red */
+			}
+			25% {
+				color: #800080; /* Purple */
+			}
+			50% {
+				color: #ffffff; /* White */
+			}
+			75% {
+				color: #000000; /* Black */
+			}
+			100% {
+				color: #ffff00; /* Yellow */
+			}
+		}
+
+		.link1 {
+			font-size: 24px;
+			text-transform: uppercase;
+			animation: flashing1 1s linear infinite;
+		}
+
+		.link2 {
+			font-size: 24px;
+			text-transform: uppercase;
+			animation: flashing2 16s linear infinite;
+		}
+
+		.grid-container {
+			display: grid;
+			grid-template-columns: repeat(3, 1fr);
+			grid-auto-rows: minmax(100px, auto);
+			gap: 20px;
+			justify-items: center;
+		}
+
+		.grid-item {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+	</style>
+</head>
+<body>
+	<div class="grid-container">
+		<div class="grid-item">
+			<a class="link1" href="https://discord.gg/tzycU3vf6r">https://discord.gg/tzycU3vf6r</a>
+		</div>
+		<div class="grid-item">
+			<a class="link2" href="https://discord.gg/tzycU3vf6r">https://discord.gg/tzycU3vf6r</a>
+		</div>
+		<!-- Repeat the grid-item divs to create the desired grid layout -->
+		<!-- Add more rows and columns as needed -->
+	</div>
+</body>
+</html>
