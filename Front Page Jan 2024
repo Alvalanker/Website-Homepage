@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Shorts</title>
+    <style>
+        @keyframes colorChange {
+            0% { color: green; }
+            12.5% { color: red; }
+            25% { color: blue; }
+            37.5% { color: orange; }
+            50% { color: yellow; }
+            62.5% { color: violet; }
+            75% { color: white; }
+            87.5% { color: blue; }
+            100% { color: green; }
+        }
+
+             h1 {
+            font-size: 2em;
+            font-weight: bold;
+            animation: colorChange 4s linear infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1>SPOTIFY</h1>
+</body>
+</html>
+
+
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/12O6L9BEaefqiZ5eQ2XD9R?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Shorts</title>
+    <style>
+        @keyframes colorChange {
+            0% { color: green; }
+            12.5% { color: red; }
+            25% { color: blue; }
+            37.5% { color: orange; }
+            50% { color: yellow; }
+            62.5% { color: violet; }
+            75% { color: white; }
+            87.5% { color: blue; }
+            100% { color: green; }
+        }
+
+             h1 {
+            font-size: 2em;
+            font-weight: bold;
+            animation: colorChange 4s linear infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1>YouTube Shorts</h1>
+</body>
+</html>
+
+
+
+ <P>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL2hNNTCPsu2MkwrDGM6nHPrx_rAecLN0l" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<P>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Shorts</title>
+    <style>
+        @keyframes colorChange {
+            0% { color: green; }
+            12.5% { color: red; }
+            25% { color: blue; }
+            37.5% { color: orange; }
+            50% { color: yellow; }
+            62.5% { color: violet; }
+            75% { color: white; }
+            87.5% { color: blue; }
+            100% { color: green; }
+        }
+
+             h1 {
+            font-size: 2em;
+            font-weight: bold;
+            animation: colorChange 4s linear infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1>APPLE MUSIC</h1>
+</body>
+</html>
+
+
+
+ <P>
+
+
+
+
+
+ <P>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/golden-sun-strings/1494071895?i=1494071904"></iframe>
+
+<p>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/orbital-command/1651053633?i=1651053641"></iframe>
